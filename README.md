@@ -1,7 +1,7 @@
 <h1 align="center">Isaque Hoffmeister 💻🎲🎮</h1>
 <h3 align="center">I am an Innovative Software Developer working with Desktop and Web Development since 2013. 😎</h3>
 
-- 🔭 I’m currently working on [imersaoReact](https://github.com/isaqueha/imersaoReact)
+- 🔭 I’m currently working on [rubikflix](https://github.com/isaqueha/rubikflix)
 
 - 🌱 I’m currently learning **ReactJs & Game Development**
 
