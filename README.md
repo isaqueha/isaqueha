@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs & Game Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/isaqueha/imersaoReact](https://github.com/isaqueha/imersaoReact)
+- 👨‍💻 All of my projects are available at [https://github.com/isaqueha/](https://github.com/isaqueha/)
 
 - 💬 Ask me about **JS, WebGL and Web in general**
 
