@@ -1,15 +1,15 @@
 <h1 align="center">Isaque Hoffmeister 💻🎲🎮</h1>
 <h3 align="center">I am an Innovative Software Developer working with Desktop and Web Development since 2013. 😎</h3>
 
-- 🔭 I’m currently working on [rubikflix](https://github.com/isaqueha/rubikflix)
+- 🔭 I’m currently working on [podcodenext](https://github.com/isaqueha/podcodenext)
 
-- 🌱 I’m currently learning **ReactJs & Game Development**
+- 🌱 I’m currently learning **ReactJs, NextJS & Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isaqueha/](https://github.com/isaqueha/)
 
 - 💬 Ask me about **JS, WebGL and Web in general**
 
-- 📫 How to reach me **isaque.ha@gmail.com**
+- 📫 How to reach me: **isaque.ha@gmail.com**
 
 - ⚡ Fun fact **I love tea and good stories. 🍵📚**
 
