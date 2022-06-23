@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [podcodenext](https://github.com/isaqueha/podcodenext)
 
-- 🌱 I’m currently learning **ReactJs, NextJS & Game Development**
+- 🌱 I’m currently learning **C++, Game Development, Vue & Vite**
 
-- 👨‍💻 All of my projects are available at [https://github.com/isaqueha/](https://github.com/isaqueha/)
+- 👨‍💻 All my personal projects are available at [https://github.com/isaqueha/](https://github.com/isaqueha/)
 
 - 💬 Ask me about **JS, WebGL and Web in general**
 
 - 📫 How to reach me: **isaque.ha@gmail.com**
 
-- ⚡ Fun fact **I love tea and good stories. 🍵📚**
+- ⚡ Fun fact **I love good tea and good stories. 🍵📚**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaqueha&show_icons=true" alt="isaqueha" /></p>
 
