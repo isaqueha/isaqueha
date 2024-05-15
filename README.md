@@ -1,8 +1,6 @@
 <h1 align="center">Isaque Hoffmeister 💻🎲🎮</h1>
 <h3 align="center">I am an Innovative Software Developer working with Desktop and Web Development since 2013. 😎</h3>
 
-- 🔭 I’m currently working on [podcodenext](https://github.com/isaqueha/podcodenext)
-
 - 🌱 I’m currently learning **C++, Game Development, Vue & Vite**
 
 - 👨‍💻 All my personal projects are available at [https://github.com/isaqueha/](https://github.com/isaqueha/)
@@ -11,7 +9,7 @@
 
 - 📫 How to reach me: **isaque.ha@gmail.com**
 
-- ⚡ Fun fact **I love good tea and good stories. 🍵📚**
+- ⚡ Fun fact **Mate and good stories always go well together. 🧉📚**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaqueha&show_icons=true" alt="isaqueha" /></p>
 
